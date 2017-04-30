@@ -4,6 +4,10 @@
   "description": "",
   "main": "play.js",
   "scripts": {
+    "lint": "standard",
+    "lintfix": "standard --fix",
+    "standard": "standard",
+    "standardfix": "standard --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
